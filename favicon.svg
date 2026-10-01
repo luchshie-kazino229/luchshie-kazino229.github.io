@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#1e3a6d"/>
+  <g fill="none" stroke="#eceff3" stroke-width="3" stroke-linecap="round">
+    <path d="M14 46V18"/>
+    <path d="M14 18h22"/>
+    <path d="M22 18v6M30 18v6"/>
+    <path d="M14 46h36"/>
+    <path d="M26 46v-7M38 46v-7"/>
+  </g>
+  <text x="48" y="38" font-family="Georgia, 'Cormorant Garamond', serif" font-style="italic" font-size="22" fill="#eceff3" text-anchor="middle">м</text>
+</svg>
